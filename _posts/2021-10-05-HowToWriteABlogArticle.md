@@ -2,7 +2,7 @@
 title: "How to write a blog article"
 description: "A tutorial on notebook, markdown, Word doc article writing"
 layout: post
-toc: false
+toc: true
 comments: true
 hide: false
 search_exclude: true
