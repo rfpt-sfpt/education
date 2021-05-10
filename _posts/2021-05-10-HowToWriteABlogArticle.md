@@ -1,14 +1,3 @@
----
-title: "How to write a blog article"
-description: "A tutorial on notebook, markdown, Word doc article writing"
-image: images/diagram.png
-layout: post
-toc: true
-comments: true
-hide: false
-search_exclude: true
-categories: [education, article writing, markdown, jupyter, docx]
----
 # Introduction
 There are a number of ways to write an blog article. Here, we will present how to upload an article using the github web-interface. If you're more familiar with github, you may as well clone the repository locally, modify it as it fits, and push to the master branch via a pull request.
 
