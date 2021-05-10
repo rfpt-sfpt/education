@@ -9,8 +9,6 @@ hide: false
 search_exclude: true
 categories: [education, article writing, markdown, jupyter, docx]
 ---
-
-
 # Introduction
 There are a number of ways to write an blog article. Here, we will present how to upload an article using the github web-interface. If you're more familiar with github, you may as well clone the repository locally, modify it as it fits, and push to the master branch via a pull request.
 
@@ -36,9 +34,7 @@ In the following figure, the folders are marked with reg, green and blue rectang
 # Markdown article
 
 1. Upload an existing file or create a new one
-2. Include `front matter` to describe the metadata of the article 
-   * Title, description, tags;
-   * Please include an image, and do not forget to upload the file inside the `images` directory. The image will be displayed on the main page, next to your article
+2. Include `front matter` to describe the metadata of the article such as title, description, tags, image. You're highly encouraged to include an image, which   will be displayed on the main page, next to your article. Do not forget to upload the image file inside the `images` directory prior to submitting your post. 
 4. Write the content of your article using the [markdown language](https://guides.github.com/features/mastering-markdown/) 
 5. Submit the article with the `Commit changes` button 
 
